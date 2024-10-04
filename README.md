@@ -5,10 +5,6 @@
 
 Software Quality Assurance Engineer from Ukraine.
 
-### 🧰 Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mysql,git&theme=light)](https://skills.thijs.gg)
-
-
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevabohos&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
